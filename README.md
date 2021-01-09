@@ -1,6 +1,6 @@
-# googlemap_lab3
+# STIW2044 - LAB 3
 
-A new Flutter project.
+Google Maps using latitude and longitude
 
 ## Getting Started
 
